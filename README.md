@@ -7,7 +7,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://aryaa9.github.io/Bank\_Dashboard/](https://aryaa9.github.io/Bank_Dashboard/)
+https://aryaa9.github.io/Fin-view/
 
   
   
